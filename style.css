@@ -8,28 +8,27 @@
   height: 100vh;
   width: 100%;
 }
+
+.container {
+    display: flex;
+  }
+  
 .bottom-one {
   height: 50vh;
-  margin-top: 200px;
   width: 50%;
   border-bottom: 120px solid #ef233c;
   border-right: 200px solid #ffd60a;
 }
 .bottom-two {
   height: 50vh;
-  margin-top: 200px;
   width: 50%;
   border-bottom: 120px solid #ef233c;
   border-left: 200px solid #ffd60a;
 }
 
-.container {
-  display: flex;
-}
-
 .rem {
   width: 100%;
-  height: 15vh;
+  height: 25vh;
   background-color: #ef233c;
 }
 
