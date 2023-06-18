@@ -9,14 +9,14 @@
   width: 100%;
 }
 .bottom-one {
-  height: 20vh;
+  height: 50vh;
   margin-top: 200px;
   width: 50%;
   border-bottom: 120px solid #ef233c;
   border-right: 200px solid #ffd60a;
 }
 .bottom-two {
-  height: 20vh;
+  height: 50vh;
   margin-top: 200px;
   width: 50%;
   border-bottom: 120px solid #ef233c;
@@ -45,7 +45,8 @@
   width: 100px;
   height: 100px;
   background-color: #faa307;
-  margin-left: 620px;
+  display: flex;
+  margin-left: 47%;
   border-radius: 50%;
 }
 
